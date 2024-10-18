@@ -1,6 +1,6 @@
 <!-- **************************************************Intro***************************************************** -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&lines=Initiating...;The+future's+not+set;Coding+the+future...;I'm+a+Computer+Engineering+student+and...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&lines=Initiating...;Press+F2+to+enter+BIOS;Hello,+World!;)](https://git.io/typing-svg)
 
  <!-- ************************************************* Icons **************************************************** -->
 
