@@ -20,7 +20,8 @@
  
 <!--********************************************** GitHub Stats ************************************************* --> 
  
-<br>
+ 
+ <br>
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b> GitHub Stats</b>:
 
 <div>
