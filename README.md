@@ -2,26 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&lines=Initiating...;The+future's+not+set;Coding+the+future...;I'm+a+Computer+Engineering+student+and...;)](https://git.io/typing-svg)
 
- <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
-
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/>Certifications and Licenses:
-<p> 
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 7 in Computer Engineering from Newton Paiva University.<br />
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 9 in the IT Field.<br />
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 2 in Language Studies.<br />
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 in Administration and Management.<br />
- - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Additional Certifications.<br />
- <br>
- - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/car.gif?raw=true"/> Driver's License Class AB (car and motorcycle).<br />
- - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/jet2.gif?raw=true"/> CCT Private Pilot Airplane.<br />
-</p>
-</div>
-
-<!-- ************************************************** Bar ***************************************************** -->
-
-  <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
-
-<!-- ************************************************* Icons **************************************************** -->
+ <!-- ************************************************* Icons **************************************************** -->
 
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Languages**:
 <div style="display: inline_block">
