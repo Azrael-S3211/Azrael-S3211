@@ -38,45 +38,19 @@
  </div>
   
 <!-- ************************************************ Contato *************************************************** --> 
-
-<br>
-<div>
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/><b> Social Networks and Contacts</b>:
  
-<div> 
-  <a href="https://www.instagram.com/pklavc/" target="_blank"><img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank"><img alt="Linkedin" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg" target="_blank"/></a>
-  <a href="mailto:patrickajm@gmail.com" target="_blank"><img alt="mail" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
-  <a href="https://join.skype.com/invite/nR1otLAnIADl" target="_blank"><img alt="skype" src="https://github.com/PkLavc/PkLavc/blob/d1cc43cb4dbae9aba88d199b60fec10f708bda64/resources/Icons/Static/Skype.svg"/></a>
-</div>
- 
- <!--**************************************** GitHub Stats ********************************************* --> 
+<!--********************************************** GitHub Stats ************************************************* --> 
  
  <br>
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b> GitHub Stats</b>:
+<img height="20" alt="GIF" src="https://github.com/Azrael-S3211/Azrael-S3211/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b> GitHub Stats</b>:
 
 <div>
-<img alt="GitHub Stats" width="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PkLavc&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
- <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
+<img alt="GitHub Stats" width="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azrael-S3211&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azrael-S3211&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
+ <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azrael-S3211&theme=github_dark"/>
 <br>
-
-<!--**************************************** Linkedin ********************************************* --> 
-<!--
-<details>
-  <summary>
-    <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Icons/Animated/linkedin.gif?raw=true"/>
-    <b> Linkedin:</b>
-  </summary>
-  <div>
-    <img src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Docs/Newton/Resultado-Concurso-de-Bolsas-26-01-2019_page-0001.jpg" alt="R1"/>
-    <!--<img src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R2"/>--> 
-  </div>
-</details>
    
 <!--**************************************** Support Me Here / Counter********************************************** --> 
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc) <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=PkLavc&color=00FF00&style=for-the-badge">
 
 <!--*************************************************Snake********************************************************** --> 
 
