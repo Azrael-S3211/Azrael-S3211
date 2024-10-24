@@ -4,8 +4,10 @@
 
  <!--**************************************** GitHub Stats ********************************************* --> 
  
- <br>
-<img height="20" alt="GIF" src="https://raw.githubusercontent.com/PkLavc/PkLavc/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b> GitHub Stats</b>:
+ <div style="display: flex; align-items: center;">
+    <img height="20" alt="GIF" src="https://raw.githubusercontent.com/PkLavc/PkLavc/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true" />
+    <b> GitHub Stats</b>
+</div>
 
 <div>
 <img alt="GitHub Stats" width="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azrael-S3211&theme=github_dark"/>
